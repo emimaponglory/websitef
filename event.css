@@ -1,0 +1,50 @@
+.column{
+clear: both;
+height: 350px;
+margin-top:150px;
+margin-left: 200px;
+}
+.column .grid_2 h3{
+color:white;
+font-size: 20px;
+font-family:cursive;
+font-weight: bolder;
+background: black;
+opacity: 0.7;
+filter: alpha(opacity=70);
+}
+.column img{
+  opacity: 1.0;
+  filter: alpha(opacity=100);
+}
+.column img:hover{
+  opacity: 0.7;
+  filter: alpha(opacity=70);
+}
+#even{
+  background:#008B8B;
+  /*background-image: url("../image/contactb.jpg");*/
+}
+.cont{
+  height:500px;
+}
+.grid_5 img{
+width: 400px;
+}
+#con{
+    background:#008B8B;
+}
+.eve{
+  margin-top: 50px;
+height: 400px;
+}
+.eve h3{
+  color:white;
+}
+.copy{
+  float:left;
+  margin-left: 70px;
+}
+.fb{
+  margin-left:800px;
+}
